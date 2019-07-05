@@ -27,7 +27,11 @@ _The work is done in Jupyter Notebook, using a kernel provided by Udacity. The c
 
 [Link: Project3.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P3.Investigate_A_Dataset.html)
 
-##
+## Analyse Experiment Results
+
+A dataset reflecting the results of an A/B test run by an e-commerce website is provided. In addition, a Jupyter Notebook containing various questions and required steps is also provided by Udacity. Using statistical techniques, questions about the data are answered. The goal is to determine if the company should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+_The code is written in Python 3, using Pandas and NumPy. The visualizations are created with Matplotlib._
 
 [Link: Project4.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P4.Analyze_AB_Test_Results.html)
 
