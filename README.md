@@ -1,8 +1,6 @@
 # Data Analyst Nanodegree Projects
 
-You can use the [editor on GitHub](https://github.com/SolanaO/dand_udacity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Short descriptions and links to the reports for the eight projects which are part of a two terms nanodegree in data analysis with [Udacity](https://www.udacity.com/). The goals of the program is to learn how to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. The work is performed in Python, R, SQL and Tableau. The presentations are written in Anaconda's Jupyter Notebook and in R-Studio.
 
 ## Explore Weather Trends
 
