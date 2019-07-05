@@ -6,14 +6,14 @@ Short descriptions and links to the reports for the eight projects which are par
 
 This project presents an analysis of local and global temperatures for a period of more than 250 years. The global temperatures trends are compared with local trends for Columbus (Ohio, US) and two other cities: Madrid (Spain) and Helsinki (Finland). 
 
-This presentation is written in Jupyter Notebook, on a Windows 7 Professional system. The basic steps of data wrangling were performed using Google sheets.
+_This presentation is written in Jupyter Notebook, on a Windows 7 Professional system. The basic steps of data wrangling were performed using Google sheets._
 
 [Link: Project1.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P1.Explore_Weather_Trends.html)
 
 ## 2016 US Bike Share Activity Snapshot
 An exploratory analysis on data from [Motivate](https://www.motivateco.com/), a bike-share system provider for many major cities in the United States is performed. The system usage between three large cities: New York City, Chicago, and Washington (DC) are compared. The differences within each system for those users that are registered, regular users and those users that are short-term, casual users are also analysed.
 
-The project is completely done in Jupyter Notebook, using Python 3 and Matplotlib for visualizations. A notebook kernel is provided by Udacity and it has the information required for the completion of the project. It also contains questions and several blocks of code that guide the analysis of the data.
+_The project is completely done in Jupyter Notebook, using Python 3 and Matplotlib for visualizations. A notebook kernel is provided by Udacity and it has the information required for the completion of the project. It also contains questions and several blocks of code that guide the analysis of the data._
 
 [Link: Project2.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
 
