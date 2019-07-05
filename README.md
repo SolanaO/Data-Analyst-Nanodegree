@@ -6,7 +6,7 @@ Short descriptions and links to the reports for the eight projects which are par
 
 This project presents an analysis of local and global temperatures for a period of more than 250 years. The global temperatures trends are compared with local trends for Columbus (Ohio, US) and two other cities: Madrid (Spain) and Helsinki (Finland). This presentation is written in Jupyter Notebook, on a Windows 7 Professional system. The basic steps of data wrangling were performed using Google sheets.
 
-[Link Project1.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P1.Explore_Weather_Trends.html)
+[Link: Project1.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P1.Explore_Weather_Trends.html)
 
 ### Markdown
 
