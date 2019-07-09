@@ -1,6 +1,6 @@
 # Data Analyst Nanodegree Projects
 
-Short descriptions and links to the reports for the eight projects which are part of a two terms nanodegree in data analysis with [Udacity](https://www.udacity.com/). The goals of the program is to learn how to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. The work is performed in Python, R, SQL and Tableau. The presentations are written in Anaconda's Jupyter Notebook and in R-Studio.
+Short descriptions and links to the reports for the eight projects which were part of a two terms nanodegree in data analysis with [Udacity](https://www.udacity.com/) (October 2017 - June 2018). The goals of the program is to learn how to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. The work is performed in Python, R, SQL and Tableau. The presentations are written in Anaconda's Jupyter Notebook and in RStudio.
 
 ## Explore Weather Trends
 
@@ -35,45 +35,27 @@ _The code is written in Python 3, using Pandas and NumPy. The visualizations are
 
 [Link: Project4.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P4.Analyze_AB_Test_Results.html)
 
-##
+## Test a Perceptual Phenomenon
+
+In this project, descriptive statistics and statistical tests are used to analyse the Stroop effect, a classic result of experimental psychology. Statistical inference is used  to draw a conclusion based on the results.
+
+_The work is presented in a Jupyter Notebook, using Python and in particular Pandas, NumPy and selected packages from SciPy. The visualizations are created with Matplotlib._
 
 [Link: Project1.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
 
+## Explore and Summarize Data: Red Wines Analysis
+
+Using R and exploratory data analysis techniques a selected dataset is examinated for distributions, outliers and anomalies. The dataset contains information about red “Vinho Verde”" wine samples, from the north of Portugal. The goal is to determine which physicochemical attributes are relevant to the quality of the wine. There are 1599 samples of wine and 13 attributes for each sample. There are 11 variables based on physicochemical tests and the remaining one is quality.
+
+_The project is written as Markdown document in RStudio, the analysis is performed in R._
+
 [Link: Project2.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
+
+## Wrangle and Analyse Data
 
 [Link: Project3.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
 
+## Create a Tableau Story
+
 [Link: Project4.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SolanaO/dand_udacity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
