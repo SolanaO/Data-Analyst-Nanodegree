@@ -41,7 +41,7 @@ In this project, descriptive statistics and statistical tests are used to analys
 
 _The work is presented in a Jupyter Notebook, using Python and in particular Pandas, NumPy and selected packages from SciPy. The visualizations are created with Matplotlib._
 
-[Link: Project1.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
+[Link: Project1.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P1.Test_A_Perceptual_Phenomenon.html)
 
 ## Explore and Summarize Data: Red Wines Analysis
 
@@ -49,13 +49,19 @@ Using R and exploratory data analysis techniques a selected dataset is examinate
 
 _The project is written as Markdown document in RStudio, the analysis is performed in R._
 
-[Link: Project2.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
+[Link: Project2.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P2.Explore_A_Dataset.html)
 
 ## Wrangle and Analyse Data
 
-[Link: Project3.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
+Gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. Showcase the wrangling efforts through analyses and visualizations.
+
+The dataset that is wrangled is an enhanced Twitter archive, provided by Udacity, of the user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. This dataset contains basic tweet data for more than 2000 tweets. The tweet text was used to extract ratings, dog names and dog stages. This file was downloaded manually from Udacity's website. 
+
+The Twitter archive is enriched with two more datasets, described below. First with data obtained by query Twitter API, using Python's Tweepy library. This contains each tweet's retweet count and favorite ("like") count. Second with results obtained by running a neural network on the Twitter archive in order to predict what breed of dog is present in each tweet. The file is hosted on Udacity's servers and it was downloaded programmatically using the Requests library. 
+
+The file [wrangle_report](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/wrangle_report.html) describes in detail the wrangling efforts which are contained in the Jupyter notebook [wrangle_act](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/wrangle_act.html). These are performed in Python 3, using Pandas and NumPy. The file [act_report.pdf](https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
 
 ## Create a Tableau Story
 
-[Link: Project4.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
+[Link: Project4.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
 
