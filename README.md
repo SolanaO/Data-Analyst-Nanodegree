@@ -71,16 +71,10 @@ PISA is an international survey of students' skills and knowledge in reading, ma
 
 The design of the Story is based on two factors: the main message/idea of the story (as described in the summary) and the possible audience for the presentation. It is assumed that the audience has some basic statistical knowledge and some interest or experience with mathematics education.
 
-_The data cleaning and preparation is done in Python 3, contained in a Jupyter Notebook:_
+_The data cleaning and preparation is done in Python 3, contained in a Jupyter Notebook:_  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
 
-  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+_An outline of the story:_  [Tableau Story Outline](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.tableauStory_outline.html)
 
-_An outline of the story can be found in:_
-
-[Tableau Story Outline](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/tableauStory_outline.html)
-
-_The results and the analysis are visually presented in a Tableau story:_
-  
-  [Link to Tableau Story](https://public.tableau.com/views/pisa2012_story_final_updated/Story1?:embed=y&:display_count=yes&:origin=viz_share_link)
+_The results and the analysis are visually presented in a Tableau story:_  [Link to Tableau Story](https://public.tableau.com/views/pisa2012_story_final_updated/Story1?:embed=y&:display_count=yes&:origin=viz_share_link)
   
  
