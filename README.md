@@ -77,12 +77,16 @@ The PISA testing process is quite complex, the literature is extensive and it is
 
 Two types of numerical information are used, one that is based on percentages and the second that is based on actual counts. In the author's opinion alternating between the two approaches will encourage a conversation on how various countries participate in the survey, how the data is distributed worldwide and on genders and how statistically accurate this information is. For clarity and conciseness some of the variables and abbreviations are renamed, the tooltips and the axes names are edited.
 
-_The data cleaning and preparation is done in Python 3, the results are comprised in a Jupyter Notebook:
+_The data cleaning and preparation is done in Python 3, contained in a Jupyter Notebook:_
 
-  [PISA_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
 
-_The results and the analysis are visually presented in a Tableau story:
+_An outline of the story can be found in:_
+
+[PISA_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+
+_The results and the analysis are visually presented in a Tableau story:_
   
-  [Link to Tableau Story]()
-
-
+  [Link to Tableau Story](https://public.tableau.com/views/pisa2012_story_final_updated/Story1?:embed=y&:display_count=yes&:origin=viz_share_link)
+  
+ 
