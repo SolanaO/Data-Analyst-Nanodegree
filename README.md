@@ -71,7 +71,7 @@ PISA is an international survey of students' skills and knowledge in reading, ma
 
 The design of the Story is based on two factors: the main message/idea of the story (as described in the summary) and the possible audience for the presentation. It is assumed that the audience has some basic statistical knowledge and some interest or experience with mathematics education.
 
-_The data cleaning and preparation is done in Python 3, contained in a Jupyter Notebook:_  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+_The data cleaning and preparation is done in Python 3:_  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
 
 _An outline of the story:_  [Tableau Story Outline](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.tableauStory_outline.html)
 
