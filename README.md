@@ -61,7 +61,28 @@ The Twitter archive is enriched with two more datasets, described below. First w
 
 The file [wrangle_report](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/wrangle_report.html) describes in detail the wrangling efforts which are contained in the Jupyter notebook [wrangle_act](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/wrangle_act.html). These are performed in Python 3, using Pandas and NumPy. The file [act_report.pdf](https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
 
-## Create a Tableau Story
+## Create a Tableau Story - PISA 2012
 
-[Link: Project4.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+In this project, a data visualization, using Tableau, from a data set that tells a story or highlights
+trends or patterns in the data is created. The reflects the theory and practice of data
+visualization, harnessing visual encodings and design principles for effective communication.
+
+PISA is an international survey of students' skills and knowledge in reading, mathematics and science as they approach the end of compulsory education. In 2012 around half million students from more than 60 countries took this complex set of tests. In this report, PISA 2012 will be used to investigate the differences in achievement in mathematics tests based on location, gender and student attitudes.
+
+The design of the Story is based on two factors: the main message/idea of the story (as described in the summary) and the possible audience for the presentation. It is assumed that the audience has some basic statistical knowledge and some interest or experience with math education.
+
+After an initial description of the context, it is emphasized how certain metrics (such as math proficiency scores, indices that measure attitude towards math) differ with gender and location. The main measure to work with is the math proficiency score. In order to avoid information overload, only three indices are chosen from the long list of options which measure various attitudes towards math. These are math anxiety, math interest and math intentions. Maps with highlighting options and bubble graphs are used to give a visual understanding on how the variables are changing with location.
+
+The PISA testing process is quite complex, the literature is extensive and it is the author's opinion that some specific information has to accompany the visualizations. This includes details on the mathematics proficiency levels and on how several mathematics indices are computed. This information is inserted as text boxes in dashboards. To enhance the visual appearance of the Story various types of graphs are used, the gender is color coded and filters are provided to the reader. Numerical details are included in tooltips.
+
+Two types of numerical information are used, one that is based on percentages and the second that is based on actual counts. In the author's opinion alternating between the two approaches will encourage a conversation on how various countries participate in the survey, how the data is distributed worldwide and on genders and how statistically accurate this information is. For clarity and conciseness some of the variables and abbreviations are renamed, the tooltips and the axes names are edited.
+
+_The data cleaning and preparation is done in Python 3, the results are comprised in a Jupyter Notebook:
+
+  [PISA_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+
+_The results and the analysis are visually presented in a Tableau story:
+  
+  [Link to Tableau Story]()
+
 
