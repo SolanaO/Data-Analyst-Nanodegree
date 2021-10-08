@@ -1,12 +1,12 @@
-### Silvia Onofrei's Projects
+## Welcome!
 
-Short descriptions and links to the reports for the eight projects which are part of a two terms nanodegree in data analysis with [Udacity](https://www.udacity.com/) (October 2017 - June 2018). The goals of the program is to learn how to clean the data and how to create exploratory data analysis reports, through uncovering patterns and insights, drawing meaningful conclusions, and clearly communicating critical findings. The work is performed in Python, R, SQL and Tableau. The presentations are written in Anaconda's Jupyter Notebook and in RStudio.
+Find below short descriptions and links to the reports for the eight projects I completed as part of a two term nanodegree in data analysis with [Udacity](https://www.udacity.com/) (October 2017 - June 2018). The goals of the program are to learn how to clean the data and how to create exploratory data analysis reports, through uncovering patterns and insights, drawing meaningful conclusions, and clearly communicating critical findings. 
 
 ## Explore Weather Trends
 
 This project presents an analysis of local and global temperatures for a period of more than 250 years. The global temperatures trends are compared with local trends for Columbus (Ohio, US), Madrid (Spain) and Helsinki (Finland). 
 
-_This presentation is using Jupyter Notebook with a Python 2 kernel, on a Windows 7 Professional system. The first steps of exploratory data analysis are performed using Google sheets. More EDA is done with SQLAlchemy and Pandas, and Matplotlib for visualizations. Regression estimates are obtained with the linear model in   sklearn._
+_This presentation is using Jupyter Notebook with a Python 2 kernel, on a Windows 7 Professional system. The first steps of exploratory data analysis are performed using Google sheets. More EDA is done with SQLAlchemy and Pandas, and Matplotlib for visualizations. Regression estimates are obtained with the linear model in sklearn._
 
 [Link: Project1.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P1.Explore_Weather_Trends.html)
 
