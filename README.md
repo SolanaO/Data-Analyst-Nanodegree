@@ -1,4 +1,4 @@
-# Data Analyst Nanodegree Projects
+### Silvia Onofrei's Projects
 
 Short descriptions and links to the reports for the eight projects which are part of a two terms nanodegree in data analysis with [Udacity](https://www.udacity.com/) (October 2017 - June 2018). The goals of the program is to learn how to clean the data and how to create exploratory data analysis reports, through uncovering patterns and insights, drawing meaningful conclusions, and clearly communicating critical findings. The work is performed in Python, R, SQL and Tableau. The presentations are written in Anaconda's Jupyter Notebook and in RStudio.
 
