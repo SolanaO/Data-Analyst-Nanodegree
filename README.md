@@ -73,6 +73,6 @@ _The data cleaning and preparation is done in Python 3 using Pandas and NumPy:_ 
 
 _An outline of the story:_  [Tableau Story Outline](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.tableauStory_outline.html)
 
-_The results and the analysis are visually presented in a Tableau story:_  [Link to Tableau Story](https://public.tableau.com/views/pisa2012_story_final_updated/Story1?:embed=y&:display_count=yes&:origin=viz_share_link)
+_The results and the analysis are visually presented in a:_  [Tableau Story](https://public.tableau.com/views/pisa2012_story_final_updated/Story1?:embed=y&:display_count=yes&:origin=viz_share_link)
   
  
