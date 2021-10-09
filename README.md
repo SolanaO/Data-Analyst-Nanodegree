@@ -8,14 +8,14 @@ This project presents an analysis of local and global temperatures for a period 
 
 _This presentation is using Jupyter Notebook with a Python 2 kernel, on a Windows 7 Professional system. The first steps of exploratory data analysis are performed using Google sheets. More EDA is done with SQLAlchemy and Pandas, and Matplotlib for visualizations. Regression estimates are obtained with the linear model in sklearn._
 
-[Link: Project1.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P1.Explore_Weather_Trends.html)
+[Link: Project1.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T1P1.Explore_Weather_Trends.html)
 
 ## 2016 US Bike Share Activity Snapshot
 An exploratory analysis on data from [Motivate](https://www.motivateco.com/), a bike-share system provider for many major cities in the United States is performed. The system usage between three large cities: New York City, Chicago, and Washington (DC) are compared. The differences within each system for those users that are registered, regular users and those users that are short-term, casual users are also analyzed.
 
 _The project is completely done in Jupyter Notebook, using Python 3 and Matplotlib for visualizations. A notebook kernel is provided by Udacity and it has the information required for the completion of the project. It also contains questions and several blocks of code that guide the analysis of the data._
 
-[Link: Project2.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P2.Bike_Share_Analysis.html)
+[Link: Project2.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T1P2.Bike_Share_Analysis.html)
 
 ## Investigate the TMDb movie dataset
 
@@ -23,7 +23,7 @@ The dataset analyzed here contains information about 10,000 movies collected fro
 
 _The work is done in Jupyter Notebook, using a kernel provided by Udacity. The code is written in Python 3, using Pandas and NumPy._
 
-[Link: Project3.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P3.Investigate_A_Dataset.html)
+[Link: Project3.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T1P3.Investigate_A_Dataset.html)
 
 ## Analyze Experiment Results
 
@@ -31,7 +31,7 @@ A dataset reflecting the results of an A/B test run by an e-commerce website is 
 
 _The code is written in Python 3, using Pandas and NumPy. The visualizations are created with Matplotlib._
 
-[Link: Project4.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T1P4.Analyze_AB_Test_Results.html)
+[Link: Project4.Term1](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T1P4.Analyze_AB_Test_Results.html)
 
 ## Test a Perceptual Phenomenon
 
@@ -39,7 +39,7 @@ The data is collected from testing the Stroop effect, a classic result in experi
 
 _The work is presented in a Jupyter Notebook, using Python in conjunction with Pandas, NumPy and several other packages from SciPy. The visualizations are created with Matplotlib._
 
-[Link: Project1.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P1.Test_A_Perceptual_Phenomenon.html)
+[Link: Project1.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P1.Test_A_Perceptual_Phenomenon.html)
 
 ## Explore and Summarize Data: Red Wines Analysis
 
@@ -47,7 +47,7 @@ Using R and exploratory data analysis techniques a selected dataset is examinate
 
 _The project is written as Markdown document in RStudio, the analysis is performed in R._
 
-[Link: Project2.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P2.Explore_A_Dataset.html)
+[Link: Project2.Term2](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P2.Explore_A_Dataset.html)
 
 ## Wrangle and Analyze Data
 
@@ -57,7 +57,7 @@ The dataset that is wrangled is an enhanced Twitter archive, provided by Udacity
 
 The Twitter archive is enriched with two more datasets. First with data obtained by query Twitter API, using Python's Tweepy library. This contains each tweet's retweet count and favorite ("like") count. Second with results obtained by running a neural network on the Twitter archive in order to predict what breed of dog is present in each tweet. The file is hosted on Udacity's servers and it was downloaded programmatically using the Requests library. 
 
-The file [wrangle_report](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/wrangle_report.html) describes in detail the wrangling efforts which are contained in the Jupyter notebook [wrangle_act](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/wrangle_act.html). These are performed in Python 3, using Pandas and NumPy. The file [act_report.pdf](https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P3.Data_Wrangling/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
+The file [wrangle_report](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P3.Data_Wrangling/wrangle_report.html) describes in detail the wrangling efforts which are contained in the Jupyter notebook [wrangle_act](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P3.Data_Wrangling/wrangle_act.html). These are performed in Python 3, using Pandas and NumPy. The file [act_report.pdf](https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P3.Data_Wrangling/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
 
 ## Create a Tableau Story - PISA 2012
 
@@ -69,9 +69,9 @@ PISA is an international survey of students' skills and knowledge in reading, ma
 
 The design of the Story is based on two factors: the main message/idea of the story (as described in the summary) and the possible audience for the presentation. It is assumed that the audience has some basic statistical knowledge and some interest in or experience with mathematics education.
 
-_The data cleaning and preparation is done in Python 3 using Pandas and NumPy:_  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.Tableau_Story.html)
+_The data cleaning and preparation is done in Python 3 using Pandas and NumPy:_  [PISA 2012_dataWrangle](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P4.Tableau_Story.html)
 
-_An outline of the story:_  [Tableau Story Outline](http://htmlpreview.github.io/?https://github.com/SolanaO/dand_udacity/blob/master/dand.T2P4.tableauStory_outline.html)
+_An outline of the story:_  [Tableau Story Outline](http://htmlpreview.github.io/?https://github.com/SolanaO/Exploratory-Data-Analysis/blob/master/dand.T2P4.tableauStory_outline.html)
 
 _The results and the analysis are visually presented in a:_  [Tableau Story](https://public.tableau.com/views/pisa2012_story_final_updated/Story1?:embed=y&:display_count=yes&:origin=viz_share_link)
   
