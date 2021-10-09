@@ -53,7 +53,7 @@ _The project is written as Markdown document in RStudio, the analysis is perform
 
 Gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. Showcase the wrangling efforts through analysis and visualizations.
 
-The dataset that is wrangled is an enhanced Twitter archive, provided by Udacity, of the user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. This dataset contains basic tweet data for more than 2000 tweets. The tweet text was used to extract ratings, dog names and dog stages. This file was downloaded manually from Udacity's website. 
+The dataset that is wrangled is an enhanced Twitter archive, provided by Udacity, of the user @dog_rates. This Twitter account, also known as _WeRateDogs_ rates people's dogs with a humorous comment about the dog. This dataset contains basic tweet data for more than 2000 tweets. The tweet text was used to extract ratings, dog names and dog stages. This file was downloaded manually from Udacity's website. 
 
 The Twitter archive is enriched with two more datasets. First with data obtained by query Twitter API, using Python's Tweepy library. This contains each tweet's retweet count and favorite ("like") count. Second with results obtained by running a neural network on the Twitter archive in order to predict what breed of dog is present in each tweet. The file is hosted on Udacity's servers and it was downloaded programmatically using the Requests library. 
 
